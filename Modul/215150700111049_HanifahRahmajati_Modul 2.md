@@ -1,11 +1,11 @@
-# Modul 3 Pemrograman Integratif TI-A
+# Modul 2 Pemrograman Integratif TI-A
 
 <div align="center">
-<strong><p>Modul 3 Pemrograman Integratif TI-A - Hanifah Rahmajati - 215150700111049</p></strong>
+<strong><p>Modul 2 Pemrograman Integratif TI-A - Hanifah Rahmajati - 215150700111049</p></strong>
 </div>  
   
 1. Lakukan koneksi ke MongoDB menggunakan connection string.  
-<img src="PrakPemin_HanifahRahmajati/Screenshot/Modul 2/Screenshot 2023-09-16 154333.png" alt= "image">  
+<img src="Screenshot/Modul 2/Screenshot 2023-09-16 154333.png" alt= "image">  
 2. Buat database dengan melakukan klik "Create Database".  
 <img src="Screenshot\Modul 2\Screenshot 2023-09-16 154435.png" alt= "image">  
 3. Lakukan insert buku pertama dengan melakukan klik "Add Data", pilih "Insert Document", isi dengan data yang diinginkan dan klik "Insert".  
