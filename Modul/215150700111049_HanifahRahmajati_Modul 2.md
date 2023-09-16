@@ -5,7 +5,7 @@
 </div>  
   
 1. Lakukan koneksi ke MongoDB menggunakan connection string.  
-<img src="Screenshot/Modul 2/Screenshot 2023-09-16 154333.png" alt= "image">  
+![img1](../Screenshot/Modul 2/Screenshot 2023-09-16 154333.png)  
 2. Buat database dengan melakukan klik "Create Database".  
 <img src="Screenshot\Modul 2\Screenshot 2023-09-16 154435.png" alt= "image">  
 3. Lakukan insert buku pertama dengan melakukan klik "Add Data", pilih "Insert Document", isi dengan data yang diinginkan dan klik "Insert".  
