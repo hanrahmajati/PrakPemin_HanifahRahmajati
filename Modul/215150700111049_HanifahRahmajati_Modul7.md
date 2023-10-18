@@ -140,8 +140,8 @@ Menambahkan tag "lagu" pada postingan "tanpamu apa artinya". <br /><br />
 
 ### Langkah 13
 Menampilkan post pertama. <br /><br />
-![ss langkah 34](../Screenshot/Modul7/ss34.png) <br /><br />
+![ss langkah 34](../Screenshot/Modul7/ss35.png) <br /><br />
 
 ### Langkah 14
 Menampilkan post kedua. <br /><br />
-![ss langkah 35](../Screenshot/Modul7/ss35.png) <br /><br />
+![ss langkah 35](../Screenshot/Modul7/ss34.png) <br /><br />
